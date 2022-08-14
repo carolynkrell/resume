@@ -27,8 +27,7 @@ Technologies
 - CSS
 - Windows Forms
 - Windows Console Apps
-
-
+--------------------
 - Web frontend using HTML, JavaScript, TypeScript, and CSS
 - Import/Export text files (csv, json, xml)
 - Interact with database
