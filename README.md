@@ -13,30 +13,30 @@ git commandline (basic)
 GitHub pull requests
 GitHub
 
-Languages
+Technologies
 -------------------
-Java
-C#
-JS
-TypeScript
-Python
-SQL
-JSON
-XML
-WebSockets
-CSS
-Windows Forms
-Windows Console Apps
+- Java
+- C#
+- JS
+- TypeScript
+- Python
+- SQL
+- JSON
+- XML
+- WebSockets
+- CSS
+- Windows Forms
+- Windows Console Apps
 
 
-Web frontend using HTML, JavaScript, TypeScript, and CSS
-Import/Export text files (csv, json, xml)
-Interact with database
-Create/modify database tables
-Can use browser and IDE debugger (IntelliJ)
-Usage of various collections
-Understand type systems (dynamic and strict)
-Package management
+- Web frontend using HTML, JavaScript, TypeScript, and CSS
+- Import/Export text files (csv, json, xml)
+- Interact with database
+- Create/modify database tables
+- Can use browser and IDE debugger (IntelliJ)
+- Usage of various collections
+- Understand type systems (dynamic and strict)
+- Package management
 
 Minecraft Modding (fabric)
 
